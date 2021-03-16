@@ -1,4 +1,14 @@
-# node-mongo-registration-login-api
+# ProLib Application 
+
+This is backend project of ProLib application which is developed on Backend as nodejs along with mongodb.
+
+Here in backend project we have majorly 5 module as followse,
+
+1. Registration, for new user
+2. Login, for existing user login
+3. Admin, to delete and manage all existing user
+4. Creat page/docs
+5. View Created page/docs
 
 NodeJS + MongoDB API for User Management, Authentication and Registration
 
